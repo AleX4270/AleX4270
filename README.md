@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AleX4270
-- 👀 I’m interested in C#, Java, JavaScript, PHP
-- 🌱 I’m currently learning C#, Java, JavaScript, PHP
+- 👋 Hi, I’m EndlessCode Dev
+- 👀 I’m interested in C#, C++
+- 🌱 I’m currently learning C#, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
