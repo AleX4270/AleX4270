@@ -1,6 +1,6 @@
-- 👋 Hi, I’m EndlessCode Dev
+- 👋 Hi, I’m Quantum Dev
 - 👀 I’m interested in C#, C++, Unity
-- 🌱 I’m currently learning C#, Unity
+- 🌱 I’m currently learning C++, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
