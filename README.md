@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Quantum Dev
-- 👀 I’m interested in C#, C++, Unity
-- 🌱 I’m currently learning C++, PHP
+- 👋 Hi, I’m AleX
+- 👀 I’m interested in C#, PHP, Python
+- 🌱 I’m currently learning PHP, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
