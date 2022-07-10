@@ -1,8 +1,6 @@
 - 👋 Hi, I’m AleX
-- 👀 I’m interested in C#, PHP, Python
-- 🌱 I’m currently learning PHP, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in: JavaScript, PHP, C#, Python
+- 🌱 I’m currently learning: JavaScript
 
 <!---
 AleX4270/AleX4270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
