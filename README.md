@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AleX
 - 👀 I’m interested in: JavaScript, PHP, C#, Python
-- 🌱 I’m currently learning: JavaScript
+- 🌱 I’m currently learning: Symfony
 
 <!---
 AleX4270/AleX4270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
