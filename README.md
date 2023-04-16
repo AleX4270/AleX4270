@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a beginner Fullstack Web Developer with a passion for technology and an eagerness to learn. My tech stack includes JavaScript, React, and Node.js. I'm dedicated to crafting functional and visually appealing websites that create enjoyable user experiences.
+I'm a beginner Fullstack Web Developer with a passion for technology and an eagerness to learn. My tech stack includes JavaScript, Angular, PHP, Yii2 and Laravel. I'm dedicated to crafting functional and visually appealing websites that create enjoyable user experiences.
 
 ## 🔧 Technologies & Tools
 
