@@ -28,5 +28,5 @@ I'm a beginner Fullstack Web Developer with a passion for technology and an eage
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AleX4270&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleX4270&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleX4270&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
