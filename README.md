@@ -1,7 +1,7 @@
 ## About Me
-Software Engineer with ~4 years of professional experience. I feel comfortable working on the backend side of systems, especially in Laravel and PHP. However, I don't mind occasional frontend development tasks in Angular and TypeScript.
+Software Engineer with ~4 years of professional experience. I feel comfortable working on the backend side of systems, especially in Laravel and PHP. However, I don't mind occasional frontend development in Angular and TypeScript. I'm always happy to try out new technologies and solutions.
 
-Away from the keyboard I'm very passionate about mountain trekking and strength training. From time to time I also do a little amateur photography.
+Away from the keyboard I'm passionate about mountain trekking and strength training. From time to time I also do a little amateur photography.
 
 ## Tech Stack
 #### Backend
