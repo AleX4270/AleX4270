@@ -10,6 +10,8 @@ Away from the keyboard I'm passionate about mountain trekking and strength train
 ![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spatie Permission](https://img.shields.io/badge/Spatie_Permission-4B5563?style=for-the-badge)
+
+![PHPStan](https://img.shields.io/badge/PHPStan-8892BF?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-8B5CF6?style=for-the-badge&logo=pest&logoColor=white)
 
@@ -27,6 +29,7 @@ Away from the keyboard I'm passionate about mountain trekking and strength train
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Infrastructure
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
